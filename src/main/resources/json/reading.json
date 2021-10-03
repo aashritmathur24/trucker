@@ -1,0 +1,19 @@
+{
+  "vin": "1HGCR2F3XFA027534",
+  "latitude": 41.803194,
+  "longitude": -88.144406,
+  "timestamp": "2017-05-25T17:31:25.268Z",
+  "fuelVolume": 1.5,
+  "speed": 85,
+  "engineHp": 240,
+  "checkEngineLightOn": false,
+  "engineCoolantLow": true,
+  "cruiseControlOn": true,
+  "engineRpm": 6300,
+  "tires": {
+    "frontLeft": 34,
+    "frontRight": 36,
+    "rearLeft": 29,
+    "rearRight": 34
+  }
+}
